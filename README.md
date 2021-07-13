@@ -36,3 +36,21 @@
 - To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 - In this project, we will analyse customer-level data of a leading telecom firm. 
 - Build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
+
+## [Project 6: Time Series Forecasting](https://github.com/harishjk18/time-series-forecasting)
+
+- Lets develop a Time series forecasting model for an airline company
+- An airline company has the data of the number of passengers that have travelled with them on a particular route for the past few years. 
+- Using this data, they want to see if they can forecast the number of passengers for the next twelve months.
+
+## [Project 7: Demands for a Bike sharing rental](https://github.com/harishjk18/telecom-churn)
+
+- Built a Multiple Linear Regression model using RFE method to help in boosting to find the key areas of demand for a bike sharing company.
+- A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. 
+- The company is finding it very difficult to sustain in the current market scenario.
+
+## [Project 8: Credit Card Fraud detection](https://github.com/harishjk18/Creditcard-fraud-detection)
+
+- Our ultimate aim is to predict fraudulent credit card transactions with the help of machine learning models.
+- We will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
+- The data set is highly imbalanced, it needs to be handled before model building.
