@@ -1,6 +1,6 @@
 # Harish_Portfolio
 
-## Project 1: Credit EDA case study
+## [Project 1: Credit EDA case study](https://github.com/harishjk18/credit-eda-case-study)
 
 - Our aim is to give us an idea of applying EDA in a business scenario. 
 - In this case study, apart from applying the techniques of Exploratory Data Analysis (EDA), we will also develop a basic understanding of risk analytics in banking and financial   services and understand 
