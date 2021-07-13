@@ -6,7 +6,7 @@
 - In this case study, apart from applying the techniques of Exploratory Data Analysis (EDA), we will also develop a basic understanding of risk analytics in banking and financial   services and understand 
 - This helps to find how data is used to minimise the risk of losing money while lending to customers.
 
-![alt text](download1.png)
+![alt text](eda3.jpg)
 
 ## [Project 2: Clustering](https://github.com/harishjk18/Clustering-Help_International)
 
@@ -15,7 +15,7 @@
 - Trying both K-means and Hierarchical clustering(both single and complete linkage) on this dataset to create the clusters. 
 - Analyse the clusters and identify the ones which are in dire need of aid and differentiate the clusters of developed countries from the clusters of under-developed countries.
 
-![alt text](download.png)
+![alt text](download(1).png)
 
 ## [Project 3: House Price Prediction using MLR](https://github.com/harishjk18/Multiple_LinearReg-House-price)
 
