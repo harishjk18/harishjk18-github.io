@@ -6,7 +6,7 @@
 - In this case study, apart from applying the techniques of Exploratory Data Analysis (EDA), we will also develop a basic understanding of risk analytics in banking and financial   services and understand 
 - This helps to find how data is used to minimise the risk of losing money while lending to customers.
 
-![alt text](/main/download1.png)
+![alt text](download1.png)
 
 ## [Project 2: Clustering](https://github.com/harishjk18/Clustering-Help_International)
 
