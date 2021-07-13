@@ -3,8 +3,10 @@
 ## [Project 1: Credit EDA case study](https://github.com/harishjk18/credit-eda-case-study)
 
 - Our aim is to give us an idea of applying EDA in a business scenario. 
-- In this case study, apart from applying the techniques of Exploratory Data Analysis (EDA), we will also develop a basic understanding of risk analytics in banking and financial   services and understand 
+- In this case study, apart from applying the techniques of Exploratory Data Analysis (EDA), we will also develop a basic understanding of risk analytics in banking and     financial services
 - This helps to find how data is used to minimise the risk of losing money while lending to customers.
+- Data Cleaning, Data preprocessing and feature selection.
+- Created univariate and bivariate analysis achieving 20 % of time consuming in loan approval and created a dashboard in Power BI.
 
 ![alt text](eda3.jpg)
 
@@ -29,7 +31,8 @@
 
 - Built a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. 
 - A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted. 
-- Our model should be able to adjust to if the company's requirement changes in the future. 
+- Our model should be able to adjust to if the company's requirement changes in the future.
+- Model performed well with an ROC curve of 86 and Accuracy of 78 which helps to increase the company's sales by 35%.
 
 ## [Project 5: Telecom Churn Prediction](https://github.com/harishjk18/telecom-churn)
 
@@ -43,6 +46,8 @@
 - An airline company has the data of the number of passengers that have travelled with them on a particular route for the past few years. 
 - Using this data, they want to see if they can forecast the number of passengers for the next twelve months.
 
+![alt text](time.png)
+
 ## [Project 7: Demands for a Bike sharing rental](https://github.com/harishjk18/telecom-churn)
 
 - Built a Multiple Linear Regression model using RFE method to help in boosting to find the key areas of demand for a bike sharing company.
@@ -54,3 +59,6 @@
 - Our ultimate aim is to predict fraudulent credit card transactions with the help of machine learning models.
 - We will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
 - The data set is highly imbalanced, it needs to be handled before model building.
+- Created a Data cleaning pipeline and scaled the data.
+- Established various models like Random Forest, Decision Tree, XGBoost with SMOTE, ADASYN & Random Oversampling technique.
+- Optimized each model using GridSearchCV for the best parameter for model training
