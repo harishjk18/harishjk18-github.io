@@ -15,7 +15,7 @@
 - Trying both K-means and Hierarchical clustering(both single and complete linkage) on this dataset to create the clusters. 
 - Analyse the clusters and identify the ones which are in dire need of aid and differentiate the clusters of developed countries from the clusters of under-developed countries.
 
-![alt text](download(1).png)
+![alt text](download (1).png)
 
 ## [Project 3: House Price Prediction using MLR](https://github.com/harishjk18/Multiple_LinearReg-House-price)
 
